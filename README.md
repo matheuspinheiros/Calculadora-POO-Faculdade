@@ -30,7 +30,7 @@ O projeto foi feito para ser compilado e executado diretamente pelo terminal, se
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/matheuspinheiros/Calculadora-POO-Faculdade](https://github.com/matheuspinheiros/Calculadora-POO-Faculdade)
+    git clone https://github.com/matheuspinheiros/Calculadora-POO-Faculdade.git
     cd Calculadora
     ```
 
